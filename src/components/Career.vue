@@ -20,10 +20,18 @@ export default {
   data: () => ({
     items: [
       {
-        color: "blue",
+        color: "green",
+        icon: "work",
+        title: "software engineer @ Microsoft",
+        dates: "March 2020 - Present",
+        description:
+          "Azure front-end using ReactViews and TypeScript"
+      },
+      {
+        color: "orange",
         icon: "work",
         title: "software engineer @ Collins Aerospace",
-        dates: "July 2019 - Present",
+        dates: "July 2019 - March 2020",
         description:
           "Unmanned Aerial Vehicle (UAV) mission processor load modules"
       },

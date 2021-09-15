@@ -4,18 +4,11 @@
       <h1>about</h1>
       <img id="picture-of-me" src="../assets/james.jpg">
       <p>Hello! My name is James Wu, and thank you for visiting my website.</p>
-      <p>My primary interests are in video game development, writing C++ code, cloud computing, and real-time systems.</p>
+      <p>My primary interests are in cloud computing, embedded and real-time systems.</p>
       <p>I received my Bachelor of Science degree in Computer Science from the University of Virginia in December 2017.</p>
-      <p>I am proficient with C/C++, Java, and Python. I am familiar with Swift and Javascript.</p>
-      <p>I am currently a Flight Controls and Navigation software engineer at Collins Aerospace.</p>
-      <p>Outside of work, I love making iOS applications, video games using Unreal Engine 4, and 3D models using Blender.</p>
-      <p>I also run marathons, go on hikes, and play video games.</p>
-      <p>
-        You may download a copy of my resume
-        <a
-          href="https://github.com/CheerfulSatchel/CheerfulSatchel.github.io/raw/development/public/JamesWu_Resume.pdf"
-        >here</a>.
-      </p>
+      <p>I am proficient with TypeScript and Python. I am familiar with C/C++, Swift, and Java.</p>
+      <p>I am currently a software engineer at Microsoft working on Azure.</p>
+      <p>In my free time, I run long distances, go on hikes/long walks, and spend time with friends and family.</p>
     </div>
     <Career/>
     <SideProjects/>
@@ -62,8 +55,8 @@ export default {
 
 #picture-of-me {
   float: right;
-  width: 25%;
-  height: 25%;
+  width: 24%;
+  height: 24%;
   border-radius: 30px;
 }
 
