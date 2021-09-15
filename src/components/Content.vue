@@ -55,8 +55,8 @@ export default {
 
 #picture-of-me {
   float: right;
-  width: 24%;
-  height: 24%;
+  width: 20%;
+  height: 20%;
   border-radius: 30px;
 }
 
